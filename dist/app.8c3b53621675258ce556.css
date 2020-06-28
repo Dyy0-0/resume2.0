@@ -40,8 +40,8 @@ td {
 }
 
 .html-mode {
-  animation: flip 1s;
-  -webkit-animation: flip 1s;
+  animation: flip 0.5s;
+  -webkit-animation: flip 0.5s;
 }
   
 @keyframes flip {
